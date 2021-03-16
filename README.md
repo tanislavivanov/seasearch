@@ -1,8 +1,8 @@
 # seaSearch™ - The open source Search Engine.
 
-![](https://img.shields.io/github/repo-size/tanislavivanov/seasearch) seaSearch™ powered by PHP;
+![](https://img.shields.io/github/repo-size/tanislavivanov/seasearch) seaSearch™ is powered by PHP;
 ________________________________
-Welcome to a world where open source code is your friend. Enjoy the wonders of open source and deploy your very own search engine.
+Welcome to a world, where open source code is your friend. Enjoy the wonders of open source and deploy your very own, custom search engine.
 
 > **Notice:** *seaSearch™ is maintained by Tanislav Ivanov. Some of the official code on the website may not be uploaded on the official GitHub repository.*
 
@@ -14,4 +14,4 @@ Welcome to a world where open source code is your friend. Enjoy the wonders of o
 
 More information will soon be posted on the official website which is currently being developed. Updates are constantly pushed. Please report any issues via GitHub.
 
-© and TM: Tanislav Ivanov 2019-2020 (All rights reserved.)
+© and TM: Tanislav Ivanov 2019-2021 (All rights reserved.)
